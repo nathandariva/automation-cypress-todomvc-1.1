@@ -1,7 +1,7 @@
 
 ####### PT-BR
 
-O básico de automação utilizando o cypress:
+O básico de automação utilizando o cypress com Page Objects:
 - Automatização da plataforma TODO MVC, utilizando a configuração padrão do cypress e utilizando o GitHub Actions para integração contínua.
 
 Passos Para Reproduzir em sua máquina:
@@ -14,7 +14,7 @@ Passos Para Reproduzir em sua máquina:
 
 ####### ENGLISH
 
-The basics of automation using cypress:
+The basics of automation using cypress with Page Objects:
 - Automation of the TODO MVC platform, using the default cypress configuration and using GitHub Actions for continuous integration.
 
 Steps To Play On Your Machine:
