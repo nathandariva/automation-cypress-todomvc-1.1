@@ -35,6 +35,7 @@ describe('Platform Scenarios - TODO', () => {
       .should('be.visible')
       .and('not.contain', 'Walk the dog')
       .and('contain', 'Feed the dragon')
+    
     for (let i = 2; i >= 0; i--) {
       activeTab.checkAllTasksAsDone(i)
     }
